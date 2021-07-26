@@ -243,7 +243,7 @@ public class main {
             }
             System.out.println(ANSI_BRIGHT_RED+"\nHosts\t:\t"+finalAdd[4][0]+ANSI_RESET);
         }
-        else {//Process for IPv6 - if it's possible & i will have will (most likely no)
+        else {//Process for IPv6 - if it's possible & I will have will (most likely no)
 
         }
     }
